@@ -1,13 +1,6 @@
-reviewCategory,searchDate,location,searchLogic,numberOfResults,afterDuplicatesremoved,screened,excluded,fullRead,fullReadExcluded,includedInReview
-1,11/29/2021,Three FAIR for research software paper,NA,3,3,3,0,3,0,3
-2,12/1/2021,References from category 1,NA,96,90,90,75,15,7,8
-3,12/2/2021,FAIR4RS reading lists and resources,NA,45,42,42,31,11,6,5
-4,12/2/2021,PubMed,"((Findable AND Accessible AND Interoperable AND Reusable AND Research AND Software) AND ((""2015/01/01""[Date - Publication] : ""3000""[Date - Publication]))) AND (English[Language])",51,51,51,47,4,3,1
-5,12/5/2021,Author's resources,NA,12,12,12,0,12,3,9
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+reviewCategory,categoryDescription,searchDate,searchLogic,numberOfResults,afterDuplicatesremoved,screened,excluded,fullRead,fullReadExcluded,includedInReview
+1,FAIR research software three papers,11/29/2021,NA,3,3,3,0,3,0,3
+2,References from category 1,12/1/2021,NA,96,90,90,75,15,7,8
+3,FAIR4RS reading lists and resources,12/2/2021,NA,45,42,42,31,11,6,5
+4,PubMed search,12/2/2021,"((Findable AND Accessible AND Interoperable AND Reusable AND Research AND Software) AND ((""2015/01/01""[Date - Publication] : ""3000""[Date - Publication]))) AND (English[Language])",51,51,51,47,4,3,1
+5,Authors' knowledge,12/5/2021,NA,12,12,12,0,12,3,9

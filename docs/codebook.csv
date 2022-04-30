@@ -1,0 +1,86 @@
+fileName	variableName	variableLabel	variableValue	missingValue	notApplicableValue
+fair4rsStudiesReview.csv	step	Step from the FAIR-BioRS guidelines	Any step from the FAIR-BioRS guidelines v1.0.0		
+fair4rsStudiesReview.csv	principleNumber	Number of the FAIR4RS principle as per https://doi.org/10.15497/RDA00065	Alpha numeric value as per https://doi.org/10.15497/RDA00065		
+fair4rsStudiesReview.csv	principleTitle	Title of the FAIR4RS principles as per https://doi.org/10.15497/RDA00065	Title text as per https://doi.org/10.15497/RDA00065		
+fair4rsStudiesReview.csv	interpretationFAIR4RS	Actionable interpretration of the principle as per https://doi.org/10.15497/RDA00065	Text based on https://doi.org/10.15497/RDA00065		
+fair4rsStudiesReview.csv	additionalResourcesFAIR4RS	Addional resources related to a principle provided in https://doi.org/10.15497/RDA00065	Text based on https://doi.org/10.15497/RDA00065	None	NA
+fair4rsStudiesReview.csv	interpretationKatz2021	Actionable interpretration of the principle as per https://arxiv.org/abs/2101.10883v4 	Text based on https://arxiv.org/abs/2101.10883v4 	None	NA
+fair4rsStudiesReview.csv	additionalResourcesKatz2021	Addional resources related to a principle provided in https://arxiv.org/abs/2101.10883v4 	Text based on https://arxiv.org/abs/2101.10883v4 	None	NA
+fair4rsStudiesReview.csv	interpretationLamprecht2020	Actionable interpretration of the principle as per https://doi.org/10.3233/DS-190026   	Text based on https://doi.org/10.3233/DS-190026   	None	NA
+fair4rsStudiesReview.csv	additionalResourcesLamprecht2020	Addional resources related to a principle provided in https://doi.org/10.3233/DS-190026   	Text based on https://doi.org/10.3233/DS-190026   	None	NA
+fair4rsStudiesReview.csv	interpretationOverall	Overvall interpretation we have derived combining information from all three resources listed above	Free text based on above values	None	NA
+searchStrategy.csv	reviewCategory	Category number of the review group	1 to 5		
+searchStrategy.csv	categoryDescription	Category description of the review group	Category defined by our review search approach		
+searchStrategy.csv	searchDate	Date ressources of the category were collected	MM/DD/YYYY		
+searchStrategy.csv	searchLogic	Logic used for the search	Text with boolean logic		
+searchStrategy.csv	numberOfResults	Number of ressources found in that category	Numerical		
+searchStrategy.csv	afterDuplicatesremoved	Number of ressources after duplicates with previous categories removed	Numerical		
+searchStrategy.csv	screened	Number of ressources screened (title and abstract read)	Numerical		
+searchStrategy.csv	excluded	Number of ressources excluded after screening	Numerical		
+searchStrategy.csv	fullRead	Number of ressources fully read	Numerical		
+searchStrategy.csv	fullReadExcluded	Number of ressources excluded after full read	Numerical		
+searchStrategy.csv	includedInReview	Number of ressources included in the review 	Numerical		
+resourcesList.csv	reviewCategory	c.f. reviewCategory in searchStrategy.csv			
+resourcesList.csv	doiOrLink	DOI or link of the resource	url		
+resourcesList.csv	source	Source from which the resource was found	url or text		
+resourcesList.csv	countPerCategory	Count of the resource in that category	Numerical		
+resourcesList.csv	countTotal	Count of the resource across all resources	Numerical		
+resourcesReview.csv	count	Count of the fully read resource			
+resourcesReview.csv	doiOrLink	DOI or link of the resource			
+resourcesReview.csv	firstAuthor	Last name of the first author			
+resourcesReview.csv	year	Year of publication	YYYY		
+resourcesReview.csv	title	Title of the resource	Text		
+resourcesReview.csv	foundThrough	How the resource was first found during our review process	url		
+resourcesReview.csv	mentionsFAIR	Does the resource mention FAIR	yes/no		
+resourcesReview.csv	isRelevant	Is the resource providing recommendations or actionable items that would make research software FAIR as per https://doi.org/10.15497/RDA00065?	yes/no		
+resourcesReview.csv	comments	Comments from the member(s) who reviewed the resource	Text		
+resourcesReview.csv	standardsSuggestion	Standards suggested to be followed	Text copied from the resource		
+resourcesReview.csv	standardsHelp	Resources mentioned to help with standards	Text copied from the resource		
+resourcesReview.csv	bestPracticeSuggestion	Best practices/development standards suggested to follow	Text copied from the resource		
+resourcesReview.csv	bestPracticeHelp	Resources mentioned to help with working environment	Text copied from the resource		
+resourcesReview.csv	documentationSuggestion	Documentation or elements of documentation suggested to be provided	Text copied from the resource		
+resourcesReview.csv	documentationHelp	Resources mentioned to help with documentation	Text copied from the resource		
+resourcesReview.csv	dataFileSuggestion	Data files suggested to be shared	Text copied from the resource		
+resourcesReview.csv	dataFileHelp	Resources mentioned to help with data files	Text copied from the resource		
+resourcesReview.csv	metadataFilesSuggestion	Metadata files suggested to be included	Text copied from the resource		
+resourcesReview.csv	metadataHelp	Resources to help with metadata	Text copied from the resource		
+resourcesReview.csv	licenseSuggestion	License suggested to be used	Text copied from the resource		
+resourcesReview.csv	licenseHelp	Resources mentioned to help with license	Text copied from the resource		
+resourcesReview.csv	repositorySuggestion	Repository suggested for sharing research software	Text copied from the resource		
+resourcesReview.csv	repositoryHelp	Resources mentioned to help with repository selection	Text copied from the resource		
+resourcesReview.csv	registerySuggestion	Registry suggested to share software research metadata	Text copied from the resource		
+resourcesReview.csv	registeryHelp	Resources mentioned to help with registry selection	Text copied from the resource		
+resourcesReview.csv	FAIRhelp	Resources mentioned to help with making research software FAIR	Text copied from the resource		
+resourcesReviewKeywords.csv	count	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	doiOrLink	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	firstAuthor	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	year	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	title	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	foundThrough	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	mentionsFAIR	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	isRelevant	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	comments	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	standardsSuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	standardsHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	bestPracticeSuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	bestPracticeHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	documentationSuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	documentationHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	dataFileSuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	dataFileHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	metadataFilesSuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	metadataHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	licenseSuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	licenseHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	repositorySuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	repositoryHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	registerySuggestion	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	registeryHelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+resourcesReviewKeywords.csv	FAIRhelp	Keywords retained based on similar field in resourcesReview.csv	Text based on similar field in resourcesReview.csv		
+					
+					
+					
+					
+					
+					
+					

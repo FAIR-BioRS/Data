@@ -143,69 +143,69 @@ reviewCategory,doiOrLink,source,countPerCategory,countTotal
 3,https://doi.org/10.5281/zenodo.4355231,https://zenodo.org/communities/fair4rs,8,142
 3,https://doi.org/10.5281/zenodo.4353714,https://zenodo.org/communities/fair4rs,9,143
 3,https://doi.org/10.5281/zenodo.4310217,https://zenodo.org/communities/fair4rs,10,144
-4,10.1016/j.drudis.2021.07.019,PubMed,1,145
-4,10.1038/s41592-021-01326-w,PubMed,2,146
-4,10.1093/bib/bbab010,PubMed,3,147
-4,10.1093/database/baab051,PubMed,4,148
-4,10.1093/database/baab035,PubMed,5,149
-4,10.3233/SHTI210281,PubMed,6,150
-4,10.12688/wellcomeopenres.16378.2,PubMed,7,151
-4,10.12688/f1000research.52569.1,PubMed,8,152
-4,10.1021/acs.jproteome.0c00904,PubMed,9,153
-4,10.12688/f1000research.28449.1,PubMed,10,154
-4,10.1093/database/baab008,PubMed,11,155
-4,10.1016/j.patter.2021.100222,PubMed,12,156
-4,10.2196/22505,PubMed,13,157
-4,10.1093/jamia/ocaa228,PubMed,14,158
-4,10.1093/nar/gkaa1105,PubMed,15,159
-4,10.1093/nar/gkaa1012,PubMed,16,160
-4,10.1007/978-1-0716-1609-3_3,PubMed,17,161
-4,10.3389/fgene.2020.610798,PubMed,18,162
-4,10.12688/f1000research.27188.1,PubMed,19,163
-4,10.1093/database/baaa074,PubMed,20,164
-4,10.1371/journal.pcbi.1008325,PubMed,21,165
-4,10.1002/mp.14322,PubMed,22,166
-4,10.3390/nano10101908,PubMed,23,167
-4,10.1515/jib-2020-0005,PubMed,24,168
-4,10.1055/s-0040-1713684,PubMed,25,169
-4,10.1055/s-0040-1712968,PubMed,26,170
-4,10.1093/gigascience/giaa041,PubMed,27,171
-4,10.1021/acs.jcim.0c00018 ,PubMed,28,172
-4,10.1186/s13104-020-05038-w,PubMed,29,173
-4,10.1158/1055-9965.EPI-19-0842,PubMed,30,174
-4,10.1016/j.radonc.2019.11.019,PubMed,31,175
-4,10.1093/nar/gkz1062,PubMed,32,176
-4,10.1093/nar/gkz996,PubMed,33,177
-4,10.1093/nar/gkz853,PubMed,34,178
-4,10.1002/mp.13844,PubMed,35,179
-4,10.1016/j.cels.2019.06.005,PubMed,36,180
-4,10.1371/journal.pone.0217410,PubMed,37,181
-4,10.1371/journal.pone.0213013,PubMed,38,182
-4,10.1371/journal.pone.0212291,PubMed,39,183
-4,10.1093/database/baz067,PubMed,40,184
-4,10.1093/database/baz077,PubMed,41,185
-4,10.1007/978-1-4939-9089-4_3,PubMed,42,186
-4,10.1371/journal.pbio.3000099,PubMed,43,187
-4,10.1093/jamia/ocy123,PubMed,44,188
-4,10.1111/age.12736,PubMed,45,189
-4,10.12688/f1000research.16015.1,PubMed,46,190
-4,10.1038/sdata.2018.23,PubMed,47,191
-4,10.1186/s13326-017-0169-2,PubMed,48,192
-4,10.1093/nar/gkx1064,PubMed,49,193
-4,10.3233/978-1-61499-896-9-209,PubMed,50,194
-4,10.1093/database/baw033,PubMed,51,195
-5,https://dx.doi.org/10.12688%2Ff1000research.10750.2,Personal,1,196
-5,https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq,Personal,2,197
-5,https://doi.org/10.3389/fgene.2014.00199,Personal,3,198
+4,10.1016/j.drudis.2021.07.019,PubMed search,1,145
+4,10.1038/s41592-021-01326-w,PubMed search,2,146
+4,10.1093/bib/bbab010,PubMed search,3,147
+4,10.1093/database/baab051,PubMed search,4,148
+4,10.1093/database/baab035,PubMed search,5,149
+4,10.3233/SHTI210281,PubMed search,6,150
+4,10.12688/wellcomeopenres.16378.2,PubMed search,7,151
+4,10.12688/f1000research.52569.1,PubMed search,8,152
+4,10.1021/acs.jproteome.0c00904,PubMed search,9,153
+4,10.12688/f1000research.28449.1,PubMed search,10,154
+4,10.1093/database/baab008,PubMed search,11,155
+4,10.1016/j.patter.2021.100222,PubMed search,12,156
+4,10.2196/22505,PubMed search,13,157
+4,10.1093/jamia/ocaa228,PubMed search,14,158
+4,10.1093/nar/gkaa1105,PubMed search,15,159
+4,10.1093/nar/gkaa1012,PubMed search,16,160
+4,10.1007/978-1-0716-1609-3_3,PubMed search,17,161
+4,10.3389/fgene.2020.610798,PubMed search,18,162
+4,10.12688/f1000research.27188.1,PubMed search,19,163
+4,10.1093/database/baaa074,PubMed search,20,164
+4,10.1371/journal.pcbi.1008325,PubMed search,21,165
+4,10.1002/mp.14322,PubMed search,22,166
+4,10.3390/nano10101908,PubMed search,23,167
+4,10.1515/jib-2020-0005,PubMed search,24,168
+4,10.1055/s-0040-1713684,PubMed search,25,169
+4,10.1055/s-0040-1712968,PubMed search,26,170
+4,10.1093/gigascience/giaa041,PubMed search,27,171
+4,10.1021/acs.jcim.0c00018 ,PubMed search,28,172
+4,10.1186/s13104-020-05038-w,PubMed search,29,173
+4,10.1158/1055-9965.EPI-19-0842,PubMed search,30,174
+4,10.1016/j.radonc.2019.11.019,PubMed search,31,175
+4,10.1093/nar/gkz1062,PubMed search,32,176
+4,10.1093/nar/gkz996,PubMed search,33,177
+4,10.1093/nar/gkz853,PubMed search,34,178
+4,10.1002/mp.13844,PubMed search,35,179
+4,10.1016/j.cels.2019.06.005,PubMed search,36,180
+4,10.1371/journal.pone.0217410,PubMed search,37,181
+4,10.1371/journal.pone.0213013,PubMed search,38,182
+4,10.1371/journal.pone.0212291,PubMed search,39,183
+4,10.1093/database/baz067,PubMed search,40,184
+4,10.1093/database/baz077,PubMed search,41,185
+4,10.1007/978-1-4939-9089-4_3,PubMed search,42,186
+4,10.1371/journal.pbio.3000099,PubMed search,43,187
+4,10.1093/jamia/ocy123,PubMed search,44,188
+4,10.1111/age.12736,PubMed search,45,189
+4,10.12688/f1000research.16015.1,PubMed search,46,190
+4,10.1038/sdata.2018.23,PubMed search,47,191
+4,10.1186/s13326-017-0169-2,PubMed search,48,192
+4,10.1093/nar/gkx1064,PubMed search,49,193
+4,10.3233/978-1-61499-896-9-209,PubMed search,50,194
+4,10.1093/database/baw033,PubMed search,51,195
+5,https://dx.doi.org/10.12688%2Ff1000research.10750.2,Authors' knowledge,1,196
+5,https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq,Authors' knowledge,2,197
+5,https://doi.org/10.3389/fgene.2014.00199,Authors' knowledge,3,198
 5,"https://doi.org/10.5281/zenodo.3479199
-",Personal,4,199
-5,https://libguides.mit.edu/software,Personal,5,200
-5,https://coderefinery.github.io/reproducible-research/,Personal,6,201
-5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6301674/,Personal,7,202
-5,https://doi.org/10.1371/journal.pcbi.1005510,Personal,8,203
-5,https://doi.org/10.1371/journal.pbio.1001745,Personal,9,204
+",Authors' knowledge,4,199
+5,https://libguides.mit.edu/software,Authors' knowledge,5,200
+5,https://coderefinery.github.io/reproducible-research/,Authors' knowledge,6,201
+5,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6301674/,Authors' knowledge,7,202
+5,https://doi.org/10.1371/journal.pcbi.1005510,Authors' knowledge,8,203
+5,https://doi.org/10.1371/journal.pbio.1001745,Authors' knowledge,9,204
 5,"https://doi.org/10.5281/zenodo.1327329
-",Personal,10,205
+",Authors' knowledge,10,205
 5,"https://doi.org/10.5281/zenodo.1327327
-",Personal,11,206
-5,https://doi.org/10.15497/rda00052,Personal,12,207
+",Authors' knowledge,11,206
+5,https://doi.org/10.15497/rda00052,Authors' knowledge,12,207
