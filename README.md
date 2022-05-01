@@ -11,7 +11,7 @@ Briefly, We conducted a literature review to identify actionable guidelines for 
 * Category 1: We started by reviewing the three studies on FAIR principles for research software [6,7,8]
 * Category 2: Subsequently, we read fully the resources referenced in studies from Category 1 that were deemed relevant based on their title and how they were discussed in Category 1 studies
 * Category 3: We also reviewed resources listed in the FAIR4Software reading materials [9], FAIR4RS Subgroup 4 reading list of new research [10], and the Zenodo community page of the FAIR4RS Working Group [11] that were deemed relevant based on their title and abstract and were not already encountered in the previous categories
-* Category 4: Given our focus on biomedical research software, we also searched literature related to FAIR for research software on PubMed - the start period was set to 2015 since the concept of FAIR data was introduced then, we read resources that were deemed relevant based on their title and abstract and were not already encountered in the previous categories
+* Category 4: Given our focus on biomedical research software, we also searched literature related to FAIR for research software on PubMed. The start period was set to 2015 since the concept of FAIR data was introduced then. We read resources that were deemed relevant based on their title and abstract and were not already encountered in the previous categories
 * Category 5: Finally, we included additional studies from the authors’ knowledge that were not already encountered in the previous categories.
 
 ## License
