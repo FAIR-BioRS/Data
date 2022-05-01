@@ -2,6 +2,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![CC BY 4.0][cc-by-shield]][cc-by]
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6468936.svg)](https://doi.org/10.5281/zenodo.6468936)
 
 [contributors-shield]: https://img.shields.io/github/contributors/fairdataihub/FAIR-BioRS-data.svg?style=flat-square
 [contributors-url]: https://github.com/fairdataihub/FAIR-BioRS-data/graphs/contributors
