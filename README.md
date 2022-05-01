@@ -5,6 +5,8 @@
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 # FAIR-BioRS-data
+
+## About
 This is the dataset associated with our review manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. It is structured according to the SPARC Data Structure v2.0 [2,3] and curated using the SPARC data curation software SODA v5.3.3 [4,5]. We refer to the manuscript for details about the dataset description and content. 
 
 Briefly, We conducted a literature review to identify actionable guidelines for making research software FAIR and this dataset contain data collected during that review. Since discussion around FAIR for research software is very recent and not widespread in the literature, we reviewed literature not only related to FAIR research software, but also related to making research software reusable without necessarily a reference to the FAIR principles. Our review was also not restricted to biomedical-related articles for the same reason. Our overall review strategy consisted of reviewing resources from the following categories: 
