@@ -14,7 +14,7 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# FAIR-BioRS-data
+# Dataset: FAIR Biomedical Research Software (FAIR-BioRS) manuscript
 
 ## About
 This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. This dataset contain data collected during that review.
