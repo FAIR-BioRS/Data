@@ -26,7 +26,7 @@ Since discussion around FAIR for research software is very recent and not widesp
 * Category 4: Given our focus on biomedical research software, we also searched literature related to FAIR for research software on PubMed. The start period was set to 2015 since the concept of FAIR data was introduced then. We read resources that were deemed relevant based on their title and abstract and were not already encountered in the previous categories
 * Category 5: Finally, we included additional studies from the authors’ knowledge that were not already encountered in the previous categories.
 
-We refer to the manuscript for details about the dataset description and content [1]. 
+We refer to the manuscript for details about the dataset description and content [1]. See the FAIR-BioRS Hub repository (https://github.com/fairdataihub/FAIR-BioRS-Hub) for a list of ressources related to the FAIR-BioRS guidelines.
 
 ## Standards followed
 This dataset is structured according to the SPARC Data Structure v2.0 [8,9] and curated using the SPARC data curation software SODA v5.3.3 [10,11]. 
