@@ -14,7 +14,7 @@
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# FAIR-BioRS-data
+# Dataset: FAIR Biomedical Research Software (FAIR-BioRS) manuscript
 
 ## About
 This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines [1]. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. This dataset contain data collected during that review.
@@ -26,7 +26,7 @@ Since discussion around FAIR for research software is very recent and not widesp
 * Category 4: Given our focus on biomedical research software, we also searched literature related to FAIR for research software on PubMed. The start period was set to 2015 since the concept of FAIR data was introduced then. We read resources that were deemed relevant based on their title and abstract and were not already encountered in the previous categories
 * Category 5: Finally, we included additional studies from the authors’ knowledge that were not already encountered in the previous categories.
 
-We refer to the manuscript for details about the dataset description and content [1]. 
+We refer to the manuscript for details about the dataset description and content [1]. See the FAIR-BioRS Hub repository (https://github.com/fairdataihub/FAIR-BioRS-Hub) for a list of ressources related to the FAIR-BioRS guidelines.
 
 ## Standards followed
 This dataset is structured according to the SPARC Data Structure v2.0 [8,9] and curated using the SPARC data curation software SODA v5.3.3 [10,11]. 
@@ -36,6 +36,9 @@ This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
+
+## Feedback and contribution
+Use the [GitHub issues](https://github.com/fairdataihub/FAIR-BioRS-data/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
 
 ## References
 [1] Patel, B., Soundarajan, S., Hu, Z. (2022) *Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool*. bioRxiv (https://doi.org/10.1101/2022.04.18.488694)
