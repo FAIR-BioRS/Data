@@ -42,7 +42,7 @@ This work is licensed under a
 [![CC BY 4.0][cc-by-image]][cc-by]
 
 ## Feedback and contribution
-Use the [GitHub issues](https://github.com/fairdataihub/FAIR-BioRS-data/issues) for submitting feedback or making suggestions. You can also work the repository and submit a pull request with suggestions.
+Use the [GitHub issues](https://github.com/fairdataihub/FAIR-BioRS-data/issues) for submitting feedback or making suggestions. You can also fork the repository and submit a pull request with suggestions.
 
 ## References
 [1] Patel, B., Soundarajan, S., Hu, Z. (2022) *Making Biomedical Research Software FAIR: Actionable Step-by-step Guidelines with a User-support Tool*. bioRxiv (https://doi.org/10.1101/2022.04.18.488694)
