@@ -11,7 +11,7 @@ fair4rsStudiesReview.csv,additionalResourcesLamprecht2020,Addional resources rel
 fair4rsStudiesReview.csv,interpretationOverall,Overvall interpretation we have derived combining information from all three resources listed above,Free text based on above values,None,NA
 searchStrategy.csv,reviewCategory,Category number of the review group,1 to 5,,
 searchStrategy.csv,categoryDescription,Category description of the review group,Category defined by our review search approach,,
-searchStrategy.csv,searchDate,Date ressources of the category were collected,MM/DD/YYYY,,
+searchStrategy.csv,searchDate,Date ressources of the category were last collected,MM/DD/YYYY,,
 searchStrategy.csv,searchLogic,Logic used for the search,Text with boolean logic,,
 searchStrategy.csv,numberOfResults,Number of ressources found in that category,Numerical,,
 searchStrategy.csv,afterDuplicatesremoved,Number of ressources after duplicates with previous categories removed,Numerical,,
