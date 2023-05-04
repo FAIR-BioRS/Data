@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Revised data file with update review resources as of February 2023
 - Revised README
 - Added Hervé to dataset_description.xlsx file
-- 
+
 ## v2.0.0 - 2022-06-01
 
 ### Feature additions:
