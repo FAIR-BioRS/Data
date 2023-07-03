@@ -39,7 +39,7 @@ Use the [GitHub issues](https://github.com/FAIR-BioRS/Data/issues) for submittin
 If you use this data, please cite the associated manuscript referenced in the [FAIR-BioRS Hub](https://github.comFAIR-BioRS/Hub) and also cite the dataset as:
 
 ```bash
-Patel, Bhavesh, Soundarajan, Sanjay, Ménager, Hervé & Hu, Zicheng. (2022). Dataset: FAIR Biomedical Research Software (FAIR-BioRS) manuscript [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6468936
+Patel, Bhavesh, Soundarajan, Sanjay, Ménager, Hervé & Hu, Zicheng. (2023). Dataset: FAIR Biomedical Research Software (FAIR-BioRS) manuscript [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6468936
 ```
 
 
