@@ -24,7 +24,7 @@
 This is the dataset associated with our manuscript on FAIR Biomedical Research Software (FAIR-BioRS) guidelines. As part of that effort, we conducted a literature review to identify actionable guidelines for making research software FAIR. This dataset contain data collected during that review. See the FAIR-BioRS Hub repository (https://github.comFAIR-BioRS/Hub) for a list of ressources related to the FAIR-BioRS guidelines, including the manuscript.
 
 ## Standards followed
-This dataset is structured according to the SPARC Data Structure v2.0 (c.f. [related manuscript](https://doi.org/10.1101/2021.02.10.430563) and [documentation](https://docs.sparc.science/docs/navigating-a-sparc-dataset#sparc-dataset-structure)) and curated using the SPARC data curation software [SODA v11.0.1](https://github.com/fairdataihub/SODA-for-SPARC). 
+This dataset is structured according to the SPARC Data Structure v2.0 (c.f. [related manuscript](https://doi.org/10.1101/2021.02.10.430563) and [documentation](https://docs.sparc.science/docs/navigating-a-sparc-dataset#sparc-dataset-structure)) and curated using the SPARC data curation software [SODA v12.0.2](https://github.com/fairdataihub/SODA-for-SPARC). 
 
 ## License
 This work is licensed under a
